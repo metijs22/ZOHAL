@@ -51,7 +51,7 @@
 | CSS3 (Grid + Flexbox) | چیدمان و استایل |
 | Vanilla JavaScript | منطق برنامه و تعامل |
 | localStorage | ذخیره‌سازی داده‌ها |
-| Persian Date | مدیریت تاریخ جلالی |
+| Persian Date | مدیریت تاریخ  |
 
 ---
 
